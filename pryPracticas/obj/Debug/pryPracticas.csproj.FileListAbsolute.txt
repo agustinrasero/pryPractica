@@ -1,0 +1,11 @@
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.csproj.AssemblyReference.cache
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.frmPrincipal.resources
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.Properties.Resources.resources
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.csproj.GenerateResource.cache
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.csproj.CoreCompileInputs.cache
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\bin\Debug\pryPracticas.exe.config
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\bin\Debug\pryPracticas.exe
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\bin\Debug\pryPracticas.pdb
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.exe
+C:\Users\AGUSTIN\Desktop\pryPracticas\pryPracticas\obj\Debug\pryPracticas.pdb
