@@ -92,7 +92,7 @@ namespace pryPracticas
 
             toolStripStatusLabel1.Text = NumeroSelec.ToString() + "/" + listView1.Items.Count + " Materias Seleccionadas";
 
-            //prueba instantanea
+            //prueba para actualizar 
         }
 
         private void toolStripStatusLabel1_Click(object sender, EventArgs e)
