@@ -11,7 +11,7 @@ namespace pryPracticas
     internal class clsDatos
     {
         
-
+        //otra prueba
         public DataTable getData(string sql)
         {
             OleDbDataAdapter adap = new OleDbDataAdapter(sql, Properties.Settings.Default.CADENA);
